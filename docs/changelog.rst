@@ -13,7 +13,7 @@ Changelog
 * :bug:`2223` Manual balances with the blockchain tag will no longer be duplicated in the dashboard and blockchain account balances.
 
 * :feature:`-` Added support for the following tokens:
-
+ - `PlasmaFinance Token (PPAY) <https://www.coingecko.com/en/coins/plasma-finance>`__
   - `FOX Token (FOX) <https://www.coingecko.com/en/coins/fox-token>`__
   - `Experty Wisdom Token (WIS) <https://www.coingecko.com/en/coins/experty-wisdom-token>`__
   - `aleph.im v2 (ALEPH) <https://www.coingecko.com/en/coins/aleph-im>`__
