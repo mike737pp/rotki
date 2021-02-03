@@ -1,7 +1,7 @@
 =========
 Changelog
 =========
-
+Add support for token $ppay https://www.coingecko.com/en/coins/plasma-finance
 * :feature:`295` When creating external trades, users will now have the trade rate automatically fetched when such a rate exists.
 * :feature:`2240` Users now can select the supported assets from a dropdown when adding or editing external trades.
 * :bug:`2273` CREAM icon and price should now be shown correctly.
